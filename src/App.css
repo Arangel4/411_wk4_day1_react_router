@@ -38,3 +38,8 @@ ul {
 .car-paper {
   padding: 50px;
 }
+
+.centerCarContainer {
+  margin: auto;
+  width: 40%;
+}
